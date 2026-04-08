@@ -1,4 +1,3 @@
-[projeto notesvets.html](https://github.com/user-attachments/files/26581660/projeto.notesvets.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -351,7 +350,7 @@
     <div class="container">
         <div class="navbar">
             <div class="logo">
-                <img src="imagens/logo.png" alt="NotesVets 
+                <img src="imagens/logo.png" alt="NotesVets" style="height: 40px;">
                 <span>Diversão em Patas · Hotel · Creche · Consultas</span>
             </div>
             <div class="nav-links">
@@ -362,7 +361,6 @@
                 <a href="#contato" class="btn-whatsapp-nav"><i class="fab fa-whatsapp"></i> WhatsApp</a>
             </div>
         </div>
-    </div>
 </header>
 
 <main>
